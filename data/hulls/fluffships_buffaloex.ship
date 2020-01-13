@@ -11,6 +11,7 @@
   "shieldCenter": [47, 0],
   "shieldRadius": 154.5,
   "viewOffset": 0,
+  "builtInMods": ["civgrade"],
   "weaponSlots": [
     {
       "id": "WS0001",
