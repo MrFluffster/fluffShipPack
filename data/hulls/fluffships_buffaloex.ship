@@ -1,0 +1,103 @@
+{
+  "hullName": "Buffalo EX",
+  "hullId": "fluffships_buffaloex",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/fluffships_buffaloex.png",
+  "style": "HIGH_TECH",
+  "height": 244,
+  "width": 100,
+  "center": [50, 75],
+  "collisionRadius": 218.5,
+  "shieldCenter": [47, 0],
+  "shieldRadius": 154.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 0,
+      "locations": [150, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": -0,
+      "locations": [150, 0]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 180,
+      "locations": [-41, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-69.5, 24.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-69.5, -24.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-70, 16],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-70, -16],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-71.5, 6.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-71.5, -6.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    7, -49.5,
+    -62.5, -28.5,
+    -62.5, 28.5,
+    7, 49.5,
+    140.5, 49,
+    159, 15,
+    159, -15,
+    140.5, -49
+  ]
+}

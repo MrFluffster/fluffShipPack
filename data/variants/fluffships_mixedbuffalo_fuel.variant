@@ -1,0 +1,25 @@
+{
+  "variantId": "fluffships_mixedbuffalo_fuel",
+  "hullId": "fluffships_mixedbuffalo",
+  "displayName": "Fuel Freighter",
+  "goalVariant": false,
+  "fluxCapacitors": 2,
+  "fluxVents": 2,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "militarized_subsystems",
+    "auxiliary_fuel_tanks"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "pdlaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

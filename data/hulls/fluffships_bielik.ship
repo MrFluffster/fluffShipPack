@@ -1,0 +1,115 @@
+{
+  "hullName": "Bielik",
+  "hullId": "fluffships_bielik",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/fluffships_bielik.png",
+  "style": "MIDLINE",
+  "height": 163,
+  "width": 104,
+  "center": [52, 81.5],
+  "collisionRadius": 107.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 93.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 235,
+      "angle": 23,
+      "locations": [-20.5, 22.5]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 235,
+      "angle": -23,
+      "locations": [-20.5, -22.5]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 235,
+      "angle": 20,
+      "locations": [11.5, 20]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 235,
+      "angle": -20,
+      "locations": [11.5, -20]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 235,
+      "angle": 0,
+      "locations": [37.5, -0]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "MISSILE",
+      "mount": "TURRET",
+      "arc": 2,
+      "angle": 0,
+      "locations": [76.5, -0]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 180,
+      "locations": [-47, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-66, 10.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-65.5, -0],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-65.5, -10.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -32.5, -48,
+    -79, -32.5,
+    -62, -22,
+    -62, 22,
+    -79, 32.5,
+    -32.5, 48,
+    71.5, 9.5,
+    71.5, -9.5
+  ]
+}

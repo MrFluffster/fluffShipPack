@@ -1,0 +1,53 @@
+{
+	# should be a copy of "combatSmall", minus variants that are annoying to fight in low numbers
+	# for example, no Hyperions or fast beam-based kiting loadouts, or ships with damper field
+	"combatSmallForSmallFleet":{
+		"fluffships_bielik_fastattack":2,
+		"fluffships_collier_mm_mm":8,
+	},
+	"combatSmall":{
+		"fluffships_bielik_fastattack":6,
+		"fluffships_collier_mm_mm":8,
+	},
+	"combatMedium":{
+		"fluffships_bielik_fastattack":6,
+		"fluffships_buffalomkiv_standard":6,
+		"fluffships_collier_mm_mm":8,
+	},
+	"combatLarge":{
+		"fluffships_buffalomkiv_standard":3,
+	},
+	"civilianRandom":{
+		"fluffships_buffaloex_fastfreighter":2,
+		"fluffships_mixedbuffalo_fuel":2,
+		"fluffships_mixedbuffalo_cargo":2,
+		"fluffships_collier_standard":4,
+	},
+
+	# carriers
+	"carrierSmall":{
+		"fluffships_symcondor_standard":7,
+	},
+	"carrierMedium":{
+		"fluffships_symcondor_standard":2,
+	},
+	"freighterSmall":{
+		"fluffships_mixedbuffalo_fuel":3,
+		"fluffships_mixedbuffalo_cargo":3,
+	},
+	"freighterMedium":{
+		"fluffships_buffaloex_fastfreighter":10,
+	},
+	"tankerSmall":{
+		"fluffships_mixedbuffalo_fuel":3,
+	},
+	# utility ships
+	"tug":{
+	},
+	"crig":{
+	},
+	"utility":{
+		"fluffships_collier_standard":8,
+		"fluffships_collier_mm_mm":10,
+	},
+}

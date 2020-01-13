@@ -1,0 +1,182 @@
+{
+  "hullName": "Collier",
+  "hullId": "fluffships_collier",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_collier.png",
+  "style": "MIDLINE",
+  "height": 113,
+  "width": 98,
+  "center": [58, 56],
+  "collisionRadius": 126,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 89,
+  "viewOffset": 0,
+  "builtInMods": [
+    "repair_gantry"
+  ],
+  "builtInWings": [
+    "borer_wing"
+  ],
+  "builtInWeapons": {
+    "WS0006": "mininglaser",
+    "WS0007": "colliermining"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 250,
+      "angle": 50,
+      "locations": [19.5, 50]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "HYBRID",
+      "mount": "TURRET",
+      "arc": 140,
+      "angle": -80,
+      "locations": [-5, -30.5]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 150,
+      "angle": 140,
+      "locations": [-40, 28]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "UNIVERSAL",
+      "mount": "TURRET",
+      "arc": 150,
+      "angle": 210,
+      "locations": [-40, -28]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 180,
+      "locations": [-49, -0]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 30,
+      "angle": 0,
+      "locations": [33.5, 49.5]
+    },
+    {
+      "id": "WS0007",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [37, -0]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [21.5, 30]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [8, 30]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-54.5, 12],
+      "length": 48,
+      "width": 18,
+      "angle": 180,
+      "contrailSize": 18,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-54, -12],
+      "length": 48,
+      "width": 18,
+      "angle": 180,
+      "contrailSize": 18,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-53, 28.5],
+      "length": 24,
+      "width": 8,
+      "angle": 172,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-53, -28.5],
+      "length": 24,
+      "width": 8,
+      "angle": -172,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-52.5, 24.5],
+      "length": 24,
+      "width": 8,
+      "angle": -176,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-52.5, -24.5],
+      "length": 24,
+      "width": 8,
+      "angle": 176,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-34, 44.5],
+      "length": 24,
+      "width": 8,
+      "angle": 172,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-34, 40.5],
+      "length": 24,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    34.5, -29,
+    -48.5, -32.5,
+    -48.5, 31,
+    -16.5, 46.5,
+    19.5, 47,
+    30.5, 18,
+    44.5, -0
+  ]
+}

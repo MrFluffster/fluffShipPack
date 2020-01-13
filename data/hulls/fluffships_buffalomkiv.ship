@@ -1,0 +1,105 @@
+{
+  "hullName": "Buffalo Mk.IV",
+  "hullId": "fluffships_buffalomkiv",
+  "hullSize": "DESTROYER",
+  "spriteName": "graphics/ships/fluffships_buffalomkiv.png",
+  "style": "LOW_TECH",
+  "height": 149,
+  "width": 102,
+  "center": [51, 74.5],
+  "collisionRadius": 106,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 94,
+  "viewOffset": 0,
+  "builtInWeapons": {
+    "WS0001": "cyclone",
+    "WS0003": "cyclone"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0002y",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -0,
+      "locations": [56, 0]
+    },
+    {
+      "id": "WS0001",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 90,
+      "locations": [30.5, 35]
+    },
+    {
+      "id": "WS0003",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": -90,
+      "locations": [30.5, -35]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-69.5, 24.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-69.5, -24.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-70.5, 15.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-70.5, -15.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-71.5, 6.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-71.5, -6.5],
+      "length": 30,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -31, -44,
+    -62, -28.5,
+    -62, 28.5,
+    -31, 44,
+    61.5, 32.5,
+    61.5, -32.5
+  ]
+}
