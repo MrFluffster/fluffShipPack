@@ -4,3 +4,6 @@ fluffships_bielik,SHIP,A niche hit-and-run ship with powerful engines and a lack
 fluffships_buffaloex,SHIP,"An uncommon aftermarket modifications, as it is usually better to just buy a Colossus, this Buffalo has been extended significantly, nearly doubling its capacity. The extra mass makes the drive consume more fuel, and much slower in a combat situation.",,,
 fluffships_symcondor,SHIP,"An extra ""arm"" has been sewed (back) on to the Condor, creating this ship. The increased carrier capacity comes at the cost of everything else being a bit worse.",,,
 fluffships_mixedbuffalo,SHIP,"A modified Buffalo, capable of being both a tanker and a freighter for a captain on a budget, though not as good as a dedicated ship.",,,
+fluffships_collier,SHIP,"The Collier is an adaptation of the classic freighter into an equally combat-capable mining platform, built for the frontier. With a hardwired blaster and a squad of borer drones, it's equally able at cracking rocks as at cracking hulls.",,,
+fluffships_lightstormbox,WEAPON,"A unique weapon capable of terrifying firepower, the Storm Box utilizes stacked 16 single-use gun barrels with superposed loads, allowing for unmatched firerate. However the nature of this system means that the gun must replace its disposable barrells after each volley, causing a lengthy reload.",,,
+fluffships_lightrailmg,WEAPON,,,,
