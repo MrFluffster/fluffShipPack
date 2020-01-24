@@ -173,7 +173,7 @@
       "id": "WS0014",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
       "locations": [82, 33]
@@ -182,7 +182,7 @@
       "id": "WS0015",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
       "locations": [82, -33]
@@ -191,7 +191,7 @@
       "id": "WS0016",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
       "locations": [82, 17]
@@ -200,7 +200,7 @@
       "id": "WS0017",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
       "locations": [82, -17]
@@ -209,7 +209,7 @@
       "id": "WS0018",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
       "locations": [82, 13]
@@ -218,7 +218,7 @@
       "id": "WS0019",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
       "locations": [82, -13]
@@ -227,7 +227,7 @@
       "id": "WS0020",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": 0,
       "locations": [82, 9]
@@ -236,7 +236,7 @@
       "id": "WS0021",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
+      "mount": "HARDPOINT",
       "arc": 5,
       "angle": -0,
       "locations": [82, -9]
