@@ -1,0 +1,72 @@
+{
+  "variantId": "fluffships_panhandler_economic",
+  "hullId": "fluffships_panhandler",
+  "displayName": "Economic",
+  "goalVariant": false,
+  "fluxCapacitors": 10,
+  "fluxVents": 3,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "efficiency_overhaul",
+    "expanded_cargo_holds",
+    "insulatedengine",
+    "blast_doors",
+    "heavyarmor"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0002": "hammer_single",
+        "WS0003": "hammer_single",
+        "WS0004": "hammer",
+        "WS0005": "hammer"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightmortar"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0006": "lightac",
+        "WS0007": "lightac"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0008": "lightmg",
+        "WS0009": "lightmg",
+        "WS0010": "lightmg",
+        "WS0011": "lightmg",
+        "WS0012": "lightmg",
+        "WS0013": "lightmg"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0014": "fluffships_mininglaser",
+        "WS0015": "fluffships_mininglaser",
+        "WS0016": "fluffships_mininglaser",
+        "WS0017": "fluffships_mininglaser",
+        "WS0018": "fluffships_mininglaser",
+        "WS0019": "fluffships_mininglaser",
+        "WS0020": "fluffships_mininglaser",
+        "WS0021": "fluffships_mininglaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

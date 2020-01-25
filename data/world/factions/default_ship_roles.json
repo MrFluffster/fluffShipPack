@@ -17,6 +17,7 @@
 		"fluffships_mixedbuffalo_fuel":2,
 		"fluffships_mixedbuffalo_cargo":2,
 		"fluffships_collier_standard":3,
+		"fluffships_panhandler_frontier":3,
 	},
 
 	# carriers
@@ -24,6 +25,7 @@
 		"fluffships_symcondor_standard":7,
 	},
 	"carrierMedium":{
+		"fluffships_panhandler_frontier":2,
 	},
 	"freighterSmall":{
 		"fluffships_mixedbuffalo_cargo":3,
@@ -42,5 +44,7 @@
 	"utility":{
 		"fluffships_collier_standard":6,
 		"fluffships_collier_mm_mm":10,
+		"fluffships_panhandler_frontier":2,
+		"fluffships_panhandler_economic":6,
 	},
 }
