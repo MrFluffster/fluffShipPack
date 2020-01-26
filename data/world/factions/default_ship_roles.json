@@ -44,7 +44,7 @@
 	"utility":{
 		"fluffships_collier_standard":6,
 		"fluffships_collier_mm_mm":10,
-		"fluffships_panhandler_frontier":2,
-		"fluffships_panhandler_economic":6,
+		"fluffships_panhandler_frontier":3,
+		"fluffships_panhandler_economic":7,
 	},
 }
