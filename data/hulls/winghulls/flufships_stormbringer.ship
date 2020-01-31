@@ -1,0 +1,58 @@
+{
+  "hullName": "Stormbringer",
+  "hullId": "flufships_stormbringer",
+  "hullSize": "FIGHTER",
+  "spriteName": "graphics/ships/wings/fluffships_stormbringer.png",
+  "style": "MIDLINE",
+  "height": 32,
+  "width": 34,
+  "center": [17, 16],
+  "collisionRadius": 35.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 22,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": 0,
+      "locations": [1, 11]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HIDDEN",
+      "arc": 0,
+      "angle": -0,
+      "locations": [1, -11]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-15, 2.5],
+      "length": 30,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-15, -2.5],
+      "length": 30,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    2, -16,
+    14, 0,
+    2, 16,
+    -15, -0
+  ]
+}

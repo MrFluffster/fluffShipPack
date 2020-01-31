@@ -3,3 +3,4 @@ Collier Mining Blaster,colliermining,0,,0,450,,450,,0,7,0,,,,ENERGY,600,,0,2,,,,
 Light Stormbox,fluffships_lightstormbox,2,,200,350,,35,,1,75,4,64,8,32,FRAGMENTATION,0.5,,0.01,2,4,0,15,15,1,1,,1000,,,,PD_ALSO,"pd7, SR, rare_bp",,The Stripes,,Assault,,,,,,,,,,1
 Light Machine Railgun,fluffships_lightrailmg,1,,400,400,,35,,1,50,5,,,,KINETIC,10,,0,0.23,,,0,5,1,15,,1000,,,30,"STRIKE, USE_VS_FRIGATES","kinetic3, SR, midline_bp",,,,Anti Shield,,,,,,,,,,0.5
 Mining Laser,fluffships_mininglaser,0,,0,500,20,,,0,30,0,,,,ENERGY,,0,0.25,0.25,,,,,,,2400,,,,,PD_ALSO,"beam0, energy0, pd0",,,,General,,,,,,,,,,16.5
+Light Stormbox (Fighter),fluffships_fighterlightstormbox,2,,200,350,,35,,1,75,4,16,2,8,FRAGMENTATION,0.5,,0.01,3,1,0,15,15,1,1,,1000,,,,PD_ALSO,"pd7, SR",,The Stripes,,Assault,,,,,,,,,,1

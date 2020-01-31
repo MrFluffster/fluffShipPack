@@ -8,3 +8,5 @@ Collier,fluffships_collier,Combat Miner,Midline,flarelauncher,6,2250,250,2400,15
 Panhandler,fluffships_panhandler,Miner,Low Tech,flarelauncher_active,15,7000,300,12000,14000,500,115,2,55,40,30,20,25,1600,OMNI,,120,0.66,1.0,,,120,400,400,200,2,100,8,100000,3,15,420,0.25,16,16,CARRIER,base_bp,,0.6,2,3,403
 Falcon-TX011,fluffships_stripesfalcon,Light Cruiser,The Stripes,microburn,15,5400,550,8000,7000,350,100,,75,50,30,20,24,630,FRONT,,240,0.4,0.8,,,100,180,120,100,4,25,10,80000,4,15,480,0.25,15,15,,midline_bp,,0.5,2,3,400
 Custodian,fluffships_custodian,Heavy Cruiser,High Tech,fortressshield,15,9000,900,10000,9000,550,150,,40,20,10,12,12,2000,FRONT,,270,0.3,0.5,,,180,280,100,100,4,25,8,125000,4,12,540,0.25,25,25,,hightech_bp,,0.4,2,3,404
+Thunderbolt,fluffships_thunderbolt,Heavy Fighter,The Stripes,,,520,50,750,,100,0,,500,600,500,150,300,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,0,,,111
+Stormbringer,fluffships_stormbringer,Heavy Fighter,The Stripes,,,300,10,600,,100,0,,400,500,450,125,300,30,FRONT,,90,0.1,0.5,,,1,1,,,,,,,,,,,,,,,,0,,,
