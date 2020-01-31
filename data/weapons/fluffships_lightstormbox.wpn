@@ -75,4 +75,5 @@
 	"projectileSpecId":"vulcan_shot",  # projectile that will be fired
 	#"fireSoundOne":"vulcan_cannon_intro",
 	"fireSoundTwo":"vulcan_cannon_fire",
+	"separateRecoilForLinkedBarrels":"TRUE",
 }

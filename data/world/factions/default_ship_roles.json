@@ -11,6 +11,8 @@
 		"fluffships_buffalomkiv_standard":6,
 	},
 	"combatLarge":{
+		"fluffships_stripesfalcon_assault":8,
+		"fluffships_custodian_standard":8,
 	},
 	"civilianRandom":{
 		"fluffships_buffaloex_fastfreighter":2,
@@ -25,7 +27,7 @@
 		"fluffships_symcondor_standard":7,
 	},
 	"carrierMedium":{
-		"fluffships_panhandler_frontier":2,
+		"fluffships_panhandler_frontier":1,
 	},
 	"freighterSmall":{
 		"fluffships_mixedbuffalo_cargo":3,
