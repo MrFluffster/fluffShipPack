@@ -3,7 +3,7 @@
   "hullId": "fluffships_custodian",
   "displayName": "Standard",
   "goalVariant": false,
-  "fluxCapacitors": 16,
+  "fluxCapacitors": 6,
   "fluxVents": 18,
   "quality": 1,
   "permaMods": [],
@@ -16,22 +16,45 @@
       "autofire": false,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "colliermining",
-        "WS0002": "gravitonbeam",
+        "WS0011": "swarmer",
+        "WS0012": "swarmer",
+        "WS0015": "swarmer",
+        "WS0016": "swarmer"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0013": "heatseeker",
+        "WS0014": "heatseeker"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0010": "hil"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "gravitonbeam",
+        "WS0002": "gravitonbeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
         "WS0003": "taclaser",
         "WS0004": "taclaser",
         "WS0005": "pdlaser",
         "WS0006": "pdlaser",
-        "WS0007": "lrpdlaser",
         "WS0008": "taclaser",
-        "WS0009": "taclaser",
-        "WS0010": "hil",
-        "WS0011": "sabot_single",
-        "WS0012": "sabot_single",
-        "WS0013": "heatseeker",
-        "WS0014": "heatseeker",
-        "WS0015": "swarmer",
-        "WS0016": "swarmer"
+        "WS0009": "taclaser"
       }
     }
   ],

@@ -1,6 +1,6 @@
 {
   "hullName": "Stormbringer",
-  "hullId": "flufships_stormbringer",
+  "hullId": "fluffships_stormbringer",
   "hullSize": "FIGHTER",
   "spriteName": "graphics/ships/wings/fluffships_stormbringer.png",
   "style": "MIDLINE",

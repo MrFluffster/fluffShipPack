@@ -1,6 +1,6 @@
 {
-  "variantId": "flufships_stormbringer_Fighter",
-  "hullId": "flufships_stormbringer",
+  "variantId": "fluffships_stormbringer_Fighter",
+  "hullId": "fluffships_stormbringer",
   "displayName": "Multi-Purpose Fighter",
   "goalVariant": false,
   "fluxCapacitors": 0,
