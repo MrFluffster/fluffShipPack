@@ -1,3 +1,3 @@
 id,variant,tags,tier,rarity,fleet pts,op cost,formation,range,attackRunRange,attackPositionOffset,num,role,role desc,refit,base value,,,,,,,,,,,,,number
-fluffships_thunderbolt_wing,fluffships_thunderbolt_Fighter,"fighter2, interceptor, mid, rare_bp",2,,6,8,V,8000,500,900,2,FIGHTER,Fighter,15,10000,,,,,,,,,,,,,5
-fluffships_stormbringer_wing,fluffships_stormbringer_Fighter,"fighter2, interceptor, mid, rare_bp",2,,6,8,V,6500,400,900,3,FIGHTER,Fighter,15,9000,,,,,,,,,,,,,5
+fluffships_thunderbolt_wing,fluffships_thunderbolt_Fighter,"fighter2, interceptor, mid, rare_bp",3,,6,10,V,8000,500,900,2,FIGHTER,Fighter,15,10000,,,,,,,,,,,,,5
+fluffships_stormbringer_wing,fluffships_stormbringer_Fighter,"fighter2, interceptor, mid, rare_bp",2,,6,9,V,6500,400,900,5,FIGHTER,Fighter,15,8000,,,,,,,,,,,,,5

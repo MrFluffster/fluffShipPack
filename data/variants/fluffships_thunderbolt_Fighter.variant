@@ -13,15 +13,14 @@
       "autofire": true,
       "mode": "LINKED",
       "weapons": {
-        "WS0001": "fluffships_lightrailmg"
+        "WS0001": "ioncannon",
+        "WS0002": "fluffships_lightrailmg"
       }
     },
     {
       "autofire": true,
       "mode": "LINKED",
-      "weapons": {
-        "WS0002": "lightmg"
-      }
+      "weapons": {}
     },
     {
       "autofire": false,
