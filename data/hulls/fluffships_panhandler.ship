@@ -97,7 +97,7 @@
       "id": "WS0008",
       "size": "SMALL",
       "type": "BALLISTIC",
-      "mount": "HARDPOINT",
+      "mount": "TURRET",
       "arc": 200,
       "angle": 45,
       "locations": [56, 52]
