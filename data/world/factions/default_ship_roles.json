@@ -16,27 +16,22 @@
 	},
 	"civilianRandom":{
 		"fluffships_buffaloex_fastfreighter":2,
-		"fluffships_mixedbuffalo_fuel":2,
-		"fluffships_mixedbuffalo_cargo":2,
 		"fluffships_collier_standard":3,
 		"fluffships_panhandler_frontier":3,
 	},
 
 	# carriers
 	"carrierSmall":{
-		"fluffships_symcondor_standard":7,
 	},
 	"carrierMedium":{
 		"fluffships_panhandler_frontier":1,
 	},
 	"freighterSmall":{
-		"fluffships_mixedbuffalo_cargo":3,
 	},
 	"freighterMedium":{
 		"fluffships_buffaloex_fastfreighter":8,
 	},
 	"tankerSmall":{
-		"fluffships_mixedbuffalo_fuel":3,
 	},
 	# utility ships
 	"tug":{

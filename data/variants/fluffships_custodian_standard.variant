@@ -2,7 +2,7 @@
   "variantId": "fluffships_custodian_standard",
   "hullId": "fluffships_custodian",
   "displayName": "Standard",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 6,
   "fluxVents": 18,
   "quality": 1,

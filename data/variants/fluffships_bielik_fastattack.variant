@@ -2,7 +2,7 @@
   "variantId": "fluffships_bielik_fastattack",
   "hullId": "fluffships_bielik",
   "displayName": "Fast Attack",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 12,
   "fluxVents": 20,
   "quality": 1,

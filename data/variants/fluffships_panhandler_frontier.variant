@@ -2,7 +2,7 @@
   "variantId": "fluffships_panhandler_frontier",
   "hullId": "fluffships_panhandler",
   "displayName": "Frontier",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 16,
   "fluxVents": 5,
   "quality": 1,
@@ -23,7 +23,7 @@
     },
     {
       "autofire": false,
-      "mode": "LINKED",
+      "mode": "ALTERNATING",
       "weapons": {
         "WS0002": "hammer_single",
         "WS0003": "hammer_single",

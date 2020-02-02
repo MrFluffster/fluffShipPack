@@ -2,7 +2,7 @@
   "variantId": "fluffships_buffalomkiv_standard",
   "hullId": "fluffships_buffalomkiv",
   "displayName": "Standard",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 0,
   "fluxVents": 3,
   "quality": 1,

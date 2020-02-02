@@ -2,7 +2,7 @@
   "variantId": "fluffships_panhandler_economic",
   "hullId": "fluffships_panhandler",
   "displayName": "Economic",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 10,
   "fluxVents": 3,
   "quality": 1,
@@ -17,7 +17,7 @@
   "weaponGroups": [
     {
       "autofire": false,
-      "mode": "LINKED",
+      "mode": "ALTERNATING",
       "weapons": {
         "WS0002": "hammer_single",
         "WS0003": "hammer_single",

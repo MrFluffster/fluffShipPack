@@ -2,7 +2,7 @@
   "variantId": "fluffships_buffaloex_fastfreighter",
   "hullId": "fluffships_buffaloex",
   "displayName": "Fast Freighter",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 4,
   "fluxVents": 4,
   "quality": 1,
