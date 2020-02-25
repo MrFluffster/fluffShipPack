@@ -15,7 +15,7 @@
 		"fluffships_custodian_standard":8,
 	},
 	"civilianRandom":{
-		"fluffships_buffaloex_fastfreighter":2,
+		"fluffships_buffaloex_fastfreighter":1,
 		"fluffships_collier_standard":3,
 		"fluffships_panhandler_frontier":3,
 	},
@@ -29,7 +29,7 @@
 	"freighterSmall":{
 	},
 	"freighterMedium":{
-		"fluffships_buffaloex_fastfreighter":8,
+		"fluffships_buffaloex_fastfreighter":7,
 	},
 	"tankerSmall":{
 	},

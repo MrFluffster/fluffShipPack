@@ -1,0 +1,173 @@
+{
+  "hullName": "Collier (RG)",
+  "hullId": "fluffships_collier_rg",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_collier_rg.png",
+  "style": "MIDLINE",
+  "height": 136,
+  "width": 120,
+  "center": [60, 68],
+  "collisionRadius": 185,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 97,
+  "viewOffset": 0,
+  "builtInWings": [
+    "talon_wing"
+  ],
+  "builtInWeapons": {
+    "WS0001": "fluffships_commielaser"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "BUILT_IN",
+      "mount": "HIDDEN",
+      "arc": 10,
+      "angle": 0,
+      "locations": [38, -8]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": 125,
+      "locations": [-41, 32]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 210,
+      "angle": -125,
+      "locations": [-41, -36]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "TURRET",
+      "arc": 120,
+      "angle": -90,
+      "locations": [-6, -36]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 46,
+      "locations": [20, 42]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -11.5, 22.5,
+        26, 26.5,
+        26, 18.5
+      ]
+    },
+    {
+      "id": "LB 2",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -21, 43,
+        -23.5, 48,
+        -17.5, 48
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-63, 15.5],
+      "length": 42,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-63, -19.5],
+      "length": 42,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-60, 31.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-60, -35.5],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-53, 44],
+      "length": 4,
+      "width": 3,
+      "angle": 145,
+      "contrailSize": 3,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-54, -47],
+      "length": 4,
+      "width": 3,
+      "angle": -145,
+      "contrailSize": 3,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-45, 47],
+      "length": 4,
+      "width": 3,
+      "angle": 125,
+      "contrailSize": 3,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-45, -51],
+      "length": 4,
+      "width": 3,
+      "angle": -125,
+      "contrailSize": 3,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    32, 12,
+    31, 48.5,
+    -29.5, 48,
+    -58, 35,
+    -60.5, 13.5,
+    -49.5, 7,
+    -49.5, -10,
+    -60.5, -16,
+    -57.5, -37.5,
+    -7, -48,
+    26, -44,
+    56, -7
+  ]
+}
