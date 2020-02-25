@@ -6,6 +6,9 @@
 	"combatSmall":{
 		"fluffships_bielik_fastattack":6,
 		"fluffships_collier_mm_mm":6,
+		"fluffships_collier_rg_backline":2,
+		"fluffships_collier_rg_strike":6,
+		"fluffships_collier_rg_antifighter":1,
 	},
 	"combatMedium":{
 		"fluffships_buffalomkiv_standard":6,

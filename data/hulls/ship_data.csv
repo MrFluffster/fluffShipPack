@@ -3,7 +3,7 @@ Thunderbolt,fluffships_thunderbolt,,Midline,,,550,50,800,,150,0,,500,600,700,150
 Stormbringer,fluffships_stormbringer,,Midline,flarelauncher_fighter,,300,10,300,,100,0,,340,500,450,125,300,30,FRONT,,90,0.1,0.5,,,1,1,,,,,,,,,,,,,,,,0,,,102
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199
 Collier,fluffships_collier,Combat Miner,Midline,flarelauncher,6,2250,250,2400,1500,300,40,1,110,95,70,45,90,300,FRONT,,180,0.4,0.8,,,30,60,80,40,1,40,10,14000,8,10,240,0.25,5,5,"CARRIER, COMBAT",base_bp,,0.5,2,2,201
-Collier (RG),fluffships_collier_rg,Militarized Miner,Red Guard,,6,2250,250,2400,,300,40,1,110,95,70,45,90,300,FRONT,,180,0.4,0.8,,,30,60,80,40,1,40,10,14000,8,10,240,0.25,5,5,"CARRIER, COMBAT",revolutionary,,2,2,2,202
+Collier (RG),fluffships_collier_rg,Militarized Miner,Red Guard,reservewing,6,2400,300,2400,,250,40,1,100,95,70,50,95,300,FRONT,,180,0.4,0.9,,,45,90,40,20,1,20,10,14000,8,12,280,0.25,5,5,"CARRIER, COMBAT",revolutionary,,2,2,2,202
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,299
 Bielik,fluffships_bielik,Light Destroyer,Midline,flarelauncher_active,9,4000,300,7500,10500,300,80,,125,90,50,40,60,300,FRONT,,270,0.4,1.2,,,50,70,50,50,2,25,10,50000,5,12,360,0.25,9,9,,"midline_bp, persean_league",,0.5,2,3,301
 Buffalo EX,fluffships_buffaloex,Freighter,High Tech,flarelauncher_active,6,3000,125,1500,1167,70,28,,50,25,15,13,6,650,OMNI,,120,0.5,1,,,15,30,450,120,3,40,8,20000,5,30,200,0.25,5,5,"CIVILIAN, FREIGHTER","hightech_bp, persean_league",,0.6,2,3,302

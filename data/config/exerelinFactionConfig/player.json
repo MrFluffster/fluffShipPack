@@ -1,6 +1,7 @@
 {
     "startShipsSolo":[
       ["fluffships_bielik_fastattack"],
+
     ],
 	
     "startShipsCombatSmall":[
@@ -11,12 +12,12 @@
 		["fluffships_collier_standard", "cerberus_Starting", "shepherd_Frontier"],
 	],
 	
-    #"startShipsCombatLarge":[
-		#[""],
-    #],
+    "startShipsCombatLarge":[
+		["fluffships_stripesfalcon_assault", "hammerhead_Starting", "fluffships_bielik_fastattack", "cerberus_Starting", "kite_Support"],
+    ],
 	
     "startShipsTradeLarge":[
-		["fluffships_panhandler_economic", "tarsus_Standard", "shepherd_Frontier"]
+		["fluffships_panhandler_economic", "tarsus_Standard", "fluffships_collier_standard", "shepherd_Frontier"],
 	],
 	
     #"startShipsCarrierSmall":[
@@ -27,7 +28,7 @@
 		#[""],
 	#],
 	
-    #"startShipsSuper":[
-		#[""],
-	#],
+    "startShipsSuper":[
+	  ["fluffships_stripesfalcon_assault"],
+	],
 }
