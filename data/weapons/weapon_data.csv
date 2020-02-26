@@ -1,8 +1,8 @@
 name,id,tier,rarity,base value,range,damage/second,damage/shot,emp,impact,turn rate,OPs,ammo,ammo/sec,reload size,type,energy/shot,energy/second,chargeup,chargedown,burst size,burst delay,min spread,max spread,spread/shot,spread decay/sec,beam speed,proj speed,launch speed,flight time,proj hitpoints,hints,tags,groupTag,tech/manufacturer,for weapon tooltip>>,primaryRoleStr,speedStr,trackingStr,turnRateStr,accuracyStr,customPrimary,customPrimaryHL,customAncillary,customAncillaryHL,noDPSInTooltip,number
 Light Stormbox,fluffships_lightstormbox,2,,200,350,,35,,1,75,4,64,8,32,FRAGMENTATION,0.5,,0.01,2,4,0,15,15,1,1,,1000,,,,PD_ALSO,"pd7, SR, rare_bp",,,,Assault,,,,,,,,,,101
 Light Machine Railgun,fluffships_lightrailmg,1,,400,400,,35,,1,50,5,,,,KINETIC,10,,0,0.23,,,0,5,1,15,,1000,,,30,"STRIKE, USE_VS_FRIGATES","kinetic3, SR, midline_bp",,,,Anti Shield,,,,,,,,,,103
-Light Stormbox (Fighter),fluffships_fighterlightstormbox,2,,200,350,,35,,1,75,4,32,4,16,FRAGMENTATION,0.5,,0.01,3,2,0,15,15,1,1,,1000,,,,"PD_ALSO, SYSTEM, HIDE_IN_CODEX","pd7, no_drop, no_drop_salvage",,,,Assault,,,,,,,,,,103
-Collier Mining Blaster,colliermining,0,,0,450,,450,,0,7,0,,,,ENERGY,600,,0,2,,,,,,,,900,,,,"SYSTEM, HIDE_IN_CODEX","no_drop, no_drop_salvage",,,,General,,,,,,,,,,901
-Mining Laser,fluffships_mininglaser,0,,0,500,25,,,0,30,0,,,,ENERGY,,0,0.25,0.25,,,,,,,2400,,,,,"PD_ALSO, SYSTEM, HIDE_IN_CODEX","no_drop, no_drop_salvage",,,,General,,,,,,,,,,902
-Heavy Machine Railgun,fluffships_hmgprot,0,,2300,1100,,50,,2,25,18,,,,KINETIC,100,,0,0.5,6,0.1,0,10,1,5,,1000,,,50,"SYSTEM, HIDE_IN_CODEX","no_drop, no_drop_salvage",,,,Anti Shield,,,,,,,,,,903
-Revolutionary Beam,fluffships_commielaser,0,,0,600,400,,60,2,5,0,,,,FRAGMENTATION,,160,0,0,1,1,,,,,1800,,,,,"SYSTEM, HIDE_IN_CODEX","no_drop, no_drop_salvage",,,,Revolution,,,,,,,,,,904
+Light Stormbox (Fighter),fluffships_fighterlightstormbox,2,,200,350,,35,,1,75,4,32,4,16,FRAGMENTATION,0.5,,0.01,3,2,0,15,15,1,1,,1000,,,,"PD_ALSO, SYSTEM","pd7, no_drop, no_drop_salvage",,,,Assault,,,,,,,,,,103
+Collier Mining Blaster,colliermining,0,,0,450,,450,,0,7,0,,,,ENERGY,600,,0,2,,,,,,,,900,,,,SYSTEM,"no_drop, no_drop_salvage",,,,General,,,,,,,,,,901
+Mining Laser,fluffships_mininglaser,0,,0,500,25,,,0,30,0,,,,ENERGY,,0,0.25,0.25,,,,,,,2400,,,,,"PD_ALSO, SYSTEM","no_drop, no_drop_salvage",,,,General,,,,,,,,,,902
+Heavy Machine Railgun,fluffships_hmgprot,0,,2300,1100,,50,,2,25,18,,,,KINETIC,100,,0,0.5,6,0.1,0,10,1,5,,1000,,,50,SYSTEM,"no_drop, no_drop_salvage",,,,Anti Shield,,,,,,,,,,903
+Revolutionary Beam,fluffships_commielaser,0,,0,600,400,,60,2,5,0,,,,FRAGMENTATION,,160,0,0,1,1,,,,,1800,,,,,SYSTEM,"no_drop, no_drop_salvage",,,,Revolution,,,,,,,,,,904
