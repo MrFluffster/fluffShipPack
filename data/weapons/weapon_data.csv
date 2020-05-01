@@ -6,4 +6,4 @@ Collier Mining Blaster,colliermining,0,,999999999,450,,450,,0,7,0,,,,ENERGY,600,
 Mining Laser,fluffships_mininglaser,0,,999999999,500,25,,,0,30,0,,,,ENERGY,,0,0.25,0.25,,,,,,,2400,,,,,"PD_ALSO, SYSTEM","no_drop, no_drop_salvage",,,,General,,,,,,,,,,902
 Heavy Machine Railgun,fluffships_hmgprot,0,,2300,1100,,50,,2,25,18,,,,KINETIC,100,,0,0.5,6,0.1,0,10,1,5,,1000,,,50,SYSTEM,"no_drop, no_drop_salvage",,,,Anti Shield,,,,,,,,,,903
 Revolutionary Beam,fluffships_commielaser,0,,999999999,600,400,,60,2,5,0,,,,FRAGMENTATION,,160,0,0,1,1,,,,,1800,,,,,SYSTEM,"no_drop, no_drop_salvage",,,,Revolution,,,,,,,,,,904
-Dickerson Rocket Pod,fluffships_rocketpod,0,,999999999,1000,,200,,5,40,0,10,0.5,20,HIGH_EXPLOSIVE,,,0,8,10,0.2,2,10,2,5,,800,200,2.75,50,SYSTEM,"no_drop, no_drop_salvage",,,,Strike,Very Fast,None,,,,,,,,
+Dickerson Rocket Pod,fluffships_rocketpod,0,,999999999,1000,,100,,5,40,0,10,0.5,20,HIGH_EXPLOSIVE,,,0,8,10,0.2,2,10,2,5,,800,200,2.75,50,SYSTEM,"no_drop, no_drop_salvage",,,,Strike,Very Fast,None,,,,,,,,

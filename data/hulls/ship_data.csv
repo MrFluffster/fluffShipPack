@@ -3,8 +3,8 @@ Thunderbolt,fluffships_thunderbolt,,Midline,,,500,50,600,,150,0,,500,600,700,150
 Stormbringer,fluffships_stormbringer,,Midline,flarelauncher_fighter,,300,10,300,,100,0,,340,500,450,125,300,30,FRONT,,90,0,1,,,1,1,,,,,,,,,,,,,,,,0,,,102
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199
 Collier,fluffships_collier,Combat Miner,Midline,flarelauncher,6,2250,250,2400,1500,300,40,1,110,95,70,45,90,300,FRONT,,180,0.4,0.8,,,30,60,80,40,1,40,10,14000,8,11,240,0.25,5,5,"CARRIER, COMBAT",base_bp,,0.5,2,2,201
-Collier (RG),fluffships_collier_rg,Militarized Miner,Red Guard,reservewing,6,2400,300,2400,,250,40,,100,95,70,50,95,300,FRONT,,180,0.4,0.9,,,25,90,40,20,1,20,10,14000,8,12,280,0.25,5,5,"CARRIER, COMBAT",revolutionary,,2,2,2,202
-Firecrow,fluffships_firecrow,Attack Craft,Low Tech,fluffships_strafedrive,5,1000,200,1400,1000,60,25,,140,160,80,50,90,120,OMNI,,150,0.5,0.8,,,4,10,10,10,1,10,10,4000,5,20,180,0.25,6,6,,rare_bp,,0.75,2,2,217
+Collier (RG),fluffships_collier_rg,Militarized Miner,Red Guard,maneuveringjets,6,2400,300,2400,,250,40,,100,95,70,50,95,300,FRONT,,180,0.4,0.9,,,25,90,40,20,1,20,10,14000,8,12,280,0.25,5,5,"CARRIER, COMBAT",revolutionary,,2,2,2,202
+Firecrow,fluffships_firecrow,Attack Craft,Low Tech,fluffships_strafedrive,5,1000,200,1400,1000,50,25,,140,160,80,50,90,120,OMNI,,150,0.5,0.8,,,4,10,10,10,1,10,10,4000,5,20,180,0.25,6,6,,rare_bp,,0.75,2,2,217
 Crab,fluffships_crab,Frigate,Low Tech,ammofeed,8,1750,300,2100,,140,55,,120,110,90,60,90,200,FRONT,,210,0.4,1,,,20,30,10,20,2,10,10,20000,8,10,240,0.25,8,8,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,299
 Bielik,fluffships_bielik,Light Destroyer,Midline,flarelauncher_active,9,4000,125,7500,10500,280,80,,125,90,50,40,60,300,FRONT,,270,0.4,1.4,,,50,70,50,50,2,25,10,50000,5,12,360,0.25,9,9,,"midline_bp, persean_league",,0.5,2,3,301
