@@ -1,0 +1,44 @@
+{
+	# variantOverrides restricts hulls to listed variants and adjusts their probability
+	"variantOverrides":{
+	},
+	# multiplier for how often hulls show up in the faction's fleets
+	"hullFrequency":{
+		#"tags":{
+		#},
+		"hulls":{
+			"fluffships_atlasmk5":0.2,
+		},
+	},
+	# ships the faction gets access to when importing S&W out-of-faction
+	#"shipsWhenImporting":{
+	#	"hulls":[
+	#		
+	#	],
+	#},
+	"knownShips":{
+		"hulls":[
+			"fluffships_atlasmk5",
+			"fluffships_firecrow",
+		],
+	},
+	
+	#"knownFighters":{
+	#	"fighters":[
+	#		
+    #    ],
+	#},
+	
+	#"knownWeapons":{
+	#	"weapons":[
+	#		
+	#	],
+	#},
+	
+
+	#"knownHullMods":{
+	#	"hullMods":[
+	#		
+	#	],
+	#},
+},	

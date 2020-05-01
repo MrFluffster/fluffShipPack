@@ -1,0 +1,40 @@
+{
+  "variantId": "fluffships_custodian_frontline",
+  "hullId": "fluffships_custodian",
+  "displayName": "Frontline",
+  "goalVariant": true,
+  "fluxCapacitors": 10,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "stabilizedshieldemitter",
+    "targetingunit",
+    "advancedoptics"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "gravitonbeam",
+        "WS0002": "gravitonbeam",
+        "WS0003": "taclaser",
+        "WS0004": "taclaser",
+        "WS0005": "pdlaser",
+        "WS0006": "pdlaser",
+        "WS0008": "pdlaser",
+        "WS0009": "pdlaser",
+        "WS0010": "tachyonlance",
+        "WS0011": "swarmer",
+        "WS0012": "swarmer",
+        "WS0013": "swarmer",
+        "WS0014": "swarmer",
+        "WS0015": "swarmer",
+        "WS0016": "swarmer"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

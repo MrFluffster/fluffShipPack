@@ -1,0 +1,114 @@
+{
+  "hullName": "Crab",
+  "hullId": "fluffships_crab",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_crab.png",
+  "style": "LOW_TECH",
+  "height": 126,
+  "width": 122,
+  "center": [61, 63],
+  "collisionRadius": 102,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 93.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": 0,
+      "locations": [8, 31]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 270,
+      "angle": -0,
+      "locations": [8, -31]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": 0,
+      "locations": [54, 23]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": -0,
+      "locations": [54, -23]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [10, 50]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [10, -50]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-34, -0],
+      "length": 60,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 12,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-43, 12.5],
+      "length": 35,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-43, -12.5],
+      "length": 35,
+      "width": 16,
+      "angle": -180,
+      "contrailSize": 16,
+      "style": "LOW_TECH"
+    }
+  ],
+  "bounds": [
+    -43.5, -15.5,
+    -60.5, -36,
+    -23.5, -31.5,
+    -2.5, -55,
+    27.5, -55.5,
+    55, -28.5,
+    48.5, -17.5,
+    27.5, -10.5,
+    27.5, 10.5,
+    48.5, 17.5,
+    55, 28.5,
+    27.5, 55.5,
+    -2.5, 55,
+    -23.5, 31.5,
+    -60.5, 36,
+    -43.5, 15.5
+  ]
+}

@@ -11,6 +11,9 @@
   "shieldCenter": [0, 0],
   "shieldRadius": 153.5,
   "viewOffset": 0,
+  "builtInMods": [
+    "fluffships_HeavyEnergyNonitegration"
+  ],
   "weaponSlots": [
     {
       "id": "WS0001",

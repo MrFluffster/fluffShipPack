@@ -1,0 +1,49 @@
+{
+	
+	"variantOverrides":{
+	},
+	# multiplier for how often hulls show up in the faction's fleets
+	"hullFrequency":{
+		#"tags":{},
+		#"hulls":{
+		#	
+		#},
+	},
+	# ships the faction gets access to when importing S&W out-of-faction
+	"shipsWhenImporting":{
+		#"tags":[],
+		#"hulls":[],
+	},
+	"knownShips":{
+		#"tags":[],
+		"hulls":[
+			"fluffships_collier",
+			"fluffships_panhandler",
+			"fluffships_buffaloex",
+		],
+	},
+	# listing ships here will make the faction mostly use them even if other hulls become available
+	"priorityShips":{
+		#"tags":[],
+		#"hulls":[],
+	},
+	"knownFighters":{
+		#"tags":[],
+		#"fighters":[
+		#	
+		#],
+	},
+
+	"knownWeapons":{
+		#"tags":[],
+		#"weapons":[],
+	},
+
+	"knownHullMods":{
+		#"tags":[],
+		#"hullMods":[
+		#	
+		#],
+	},
+	
+},	

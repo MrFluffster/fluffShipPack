@@ -1,0 +1,40 @@
+{
+	
+	"variantOverrides":{
+	},
+	# multiplier for how often hulls show up in the faction's fleets
+	"hullFrequency":{
+		"hulls":{
+			"fluffships_atlasmk5":0.4,
+			"fluffships_custodian":0.9,
+		},
+	},
+	"knownShips":{
+		#"tags":[],
+		"hulls":[
+			"fluffships_atlasmk5",
+			"fluffships_custodian",
+			"fluffships_bielik",
+			"fluffships_firecrow",
+		],
+	},
+	
+	"knownFighters":{
+		#"tags":[],
+		"fighters":[
+			"fluffships_stormbringer_wing",
+		],
+	},
+	
+	"knownWeapons":{
+		#"tags":[],
+		#"weapons":[],
+	},
+	
+	"knownHullMods":{
+		#"tags":[],
+		#"hullMods":[
+		#],
+	},
+	
+},

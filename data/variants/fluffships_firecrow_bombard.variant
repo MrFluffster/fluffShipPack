@@ -1,0 +1,41 @@
+{
+  "variantId": "fluffships_firecrow_bombard",
+  "hullId": "fluffships_firecrow",
+  "displayName": "Bomardment",
+  "goalVariant": true,
+  "fluxCapacitors": 1,
+  "fluxVents": 2,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "eccm",
+    "unstable_injector"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "fluffships_rocketpod",
+        "WS0004": "fluffships_rocketpod"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "atropos",
+        "WS0002": "atropos"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "pdlaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

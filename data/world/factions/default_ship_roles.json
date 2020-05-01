@@ -9,30 +9,47 @@
 		"fluffships_collier_rg_backline":2,
 		"fluffships_collier_rg_strike":6,
 		"fluffships_collier_rg_antifighter":1,
+		"fluffships_firecrow_standard":6,
+		"fluffships_firecrow_bombard":3,
 	},
 	"combatMedium":{
 		"fluffships_buffalomkiv_standard":6,
 	},
 	"combatLarge":{
 		"fluffships_stripesfalcon_assault":8,
-		"fluffships_custodian_standard":8,
+		"fluffships_custodian_picket":5,
+		"fluffships_custodian_frontline":3,
+		"fluffships_custodian_beam":2,
+		"fluffships_buffaloex_standard":1,
+		"fluffships_buffaloex_longrange":2,
 	},
+	"combatCapital":{
+		"fluffships_atlasmk5_artillery":7,
+		"fluffships_atlasmk5_support":2,
+	},
+	"combatFreighterSmall":{
+	},
+	"combatFreighterMedium":{
+	},
+	"combatFreighterLarge":{
+		"fluffships_buffaloex_standard":5,
+		"fluffships_buffaloex_longrange":3,
+	},
+	
 	"civilianRandom":{
-		"fluffships_buffaloex_fastfreighter":1,
+		"fluffships_buffaloex_standard":1,
 		"fluffships_collier_standard":3,
-		"fluffships_panhandler_frontier":3,
+		"fluffships_panhandler_frontier":2,
 	},
 
 	# carriers
 	"carrierSmall":{
 	},
 	"carrierMedium":{
-		"fluffships_panhandler_frontier":1,
 	},
 	"freighterSmall":{
 	},
 	"freighterMedium":{
-		"fluffships_buffaloex_fastfreighter":7,
 	},
 	"tankerSmall":{
 	},
@@ -44,7 +61,7 @@
 	"utility":{
 		"fluffships_collier_standard":6,
 		"fluffships_collier_mm_mm":10,
-		"fluffships_panhandler_frontier":3,
-		"fluffships_panhandler_economic":7,
+		"fluffships_panhandler_frontier":2,
+		"fluffships_panhandler_economic":6,
 	},
 }

@@ -1,0 +1,150 @@
+{
+  "hullName": "Firecrow",
+  "hullId": "fluffships_firecrow",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_firecrow.png",
+  "style": "MIDLINE",
+  "height": 66,
+  "width": 96,
+  "center": [48, 33],
+  "collisionRadius": 63,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 57.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "missleracks",
+    "fluffships_GroundAttackCraft"
+  ],
+  "builtInWeapons": {
+    "WS0003": "fluffships_rocketpod",
+    "WS0004": "fluffships_rocketpod"
+  },
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": 0,
+      "locations": [-1, 37]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "COMPOSITE",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": -0,
+      "locations": [-1, -37]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [8, 21.5]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -0,
+      "locations": [8, -21.5]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 0,
+      "locations": [-8, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-29, -0],
+      "length": 30,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 128,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-27, 13],
+      "length": 40,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-27, -13],
+      "length": 40,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-21, 28],
+      "length": 30,
+      "width": 8,
+      "angle": 180,
+      "contrailSize": 8,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-21, -28],
+      "length": 30,
+      "width": 8,
+      "angle": -180,
+      "contrailSize": 8,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-15, 38],
+      "length": 20,
+      "width": 5,
+      "angle": 150,
+      "contrailSize": 5,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-15, -38],
+      "length": 20,
+      "width": 5,
+      "angle": -150,
+      "contrailSize": 5,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-22, -22],
+      "length": 8,
+      "width": 4,
+      "angle": -175,
+      "contrailSize": 4,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-22, 22],
+      "length": 8,
+      "width": 4,
+      "angle": 175,
+      "contrailSize": 4,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -30, -7.5,
+    -7.5, -46,
+    30.5, -0,
+    -7.5, 46,
+    -30, 7.5
+  ]
+}

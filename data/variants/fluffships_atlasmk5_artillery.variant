@@ -1,0 +1,67 @@
+{
+  "variantId": "fluffships_atlasmk5_artillery",
+  "hullId": "fluffships_atlasmk5",
+  "displayName": "Artillery",
+  "goalVariant": true,
+  "fluxCapacitors": 5,
+  "fluxVents": 40,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "targetingunit"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "pilum",
+        "WS0004": "pilum",
+        "WS0015": "pdlaser",
+        "WS0016": "sabotpod",
+        "WS0017": "sabotpod"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "gauss",
+        "WS0002": "gauss"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0011": "hveldriver",
+        "WS0012": "hveldriver"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "taclaser",
+        "WS0006": "taclaser",
+        "WS0009": "lightdualmg",
+        "WS0010": "lightdualmg"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "pdlaser",
+        "WS0008": "pdlaser",
+        "WS0013": "pdlaser",
+        "WS0014": "pdlaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": [
+    "fluffships_stormbringer_wing",
+    "thunder_wing"
+  ]
+}

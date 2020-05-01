@@ -11,8 +11,8 @@
   "shieldCenter": [0, 0],
   "shieldRadius": 97,
   "viewOffset": 0,
-  "builtInWings": [
-    "talon_wing"
+  "builtInMods": [
+    "converted_hangar"
   ],
   "builtInWeapons": {
     "WS0001": "fluffships_commielaser"

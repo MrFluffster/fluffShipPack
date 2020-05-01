@@ -1,0 +1,63 @@
+{
+  "variantId": "fluffships_custodian_picket",
+  "hullId": "fluffships_custodian",
+  "displayName": "Picket",
+  "goalVariant": true,
+  "fluxCapacitors": 8,
+  "fluxVents": 18,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "hardenedshieldemitter",
+    "heavyarmor"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0011": "swarmer",
+        "WS0012": "swarmer",
+        "WS0015": "swarmer",
+        "WS0016": "swarmer"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0013": "heatseeker",
+        "WS0014": "heatseeker"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0010": "guardian"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "gravitonbeam",
+        "WS0002": "gravitonbeam"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "taclaser",
+        "WS0004": "taclaser",
+        "WS0005": "pdlaser",
+        "WS0006": "pdlaser",
+        "WS0008": "taclaser",
+        "WS0009": "taclaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

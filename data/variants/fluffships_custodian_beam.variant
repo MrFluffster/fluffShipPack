@@ -1,0 +1,38 @@
+{
+  "variantId": "fluffships_custodian_beam",
+  "hullId": "fluffships_custodian",
+  "displayName": "Beam",
+  "goalVariant": true,
+  "fluxCapacitors": 12,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "missleracks",
+    "stabilizedshieldemitter",
+    "magazines"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "ioncannon",
+        "WS0002": "ioncannon",
+        "WS0005": "pdlaser",
+        "WS0006": "pdlaser",
+        "WS0008": "pdlaser",
+        "WS0009": "pdlaser",
+        "WS0010": "autopulse",
+        "WS0011": "sabot",
+        "WS0012": "sabot",
+        "WS0013": "sabot",
+        "WS0014": "sabot",
+        "WS0015": "harpoon",
+        "WS0016": "harpoon"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
