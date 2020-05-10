@@ -7,7 +7,7 @@
 		#"tags":{
 		#},
 		"hulls":{
-			
+			"fluffships_crab":0.9,
 		},
 	},
 	# ships the faction gets access to when importing S&W out-of-faction

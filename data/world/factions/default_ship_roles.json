@@ -11,9 +11,10 @@
 		"fluffships_collier_rg_antifighter":1,
 		"fluffships_firecrow_standard":6,
 		"fluffships_firecrow_bombard":3,
-		"fluffships_crab_standard":5,
-		"fluffships_crab_picket":1,
+		"fluffships_crab_standard":4,
+		"fluffships_crab_picket":2,
 		"fluffships_crab_artillery":2,
+		"fluffships_crab_kinetic":1,
 	},
 	"combatMedium":{
 		"fluffships_buffalomkiv_standard":6,
