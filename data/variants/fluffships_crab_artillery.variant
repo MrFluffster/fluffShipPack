@@ -1,0 +1,39 @@
+{
+  "variantId": "fluffships_crab_artillery",
+  "hullId": "fluffships_crab",
+  "displayName": "Artillery",
+  "goalVariant": true,
+  "fluxCapacitors": 4,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "sabot",
+        "WS0004": "sabot"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "heavymauler",
+        "WS0002": "heavymauler"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "railgun",
+        "WS0006": "railgun"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

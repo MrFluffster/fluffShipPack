@@ -20,6 +20,7 @@
 			"fluffships_collier",
 			"fluffships_panhandler",
 			"fluffships_buffaloex",
+			"fluffships_crab",
 		],
 	},
 	# listing ships here will make the faction mostly use them even if other hulls become available

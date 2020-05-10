@@ -11,14 +11,17 @@
   "shieldCenter": [0, 0],
   "shieldRadius": 93.5,
   "viewOffset": 0,
+  "builtInMods": [
+    "targetingunit"
+  ],
   "weaponSlots": [
     {
       "id": "WS0001",
       "size": "MEDIUM",
       "type": "BALLISTIC",
       "mount": "TURRET",
-      "arc": 270,
-      "angle": 0,
+      "arc": 210,
+      "angle": 45,
       "locations": [8, 31]
     },
     {
@@ -26,25 +29,25 @@
       "size": "MEDIUM",
       "type": "BALLISTIC",
       "mount": "TURRET",
-      "arc": 270,
-      "angle": -0,
+      "arc": 210,
+      "angle": -45,
       "locations": [8, -31]
     },
     {
       "id": "WS0003",
       "size": "SMALL",
-      "type": "COMPOSITE",
+      "type": "MISSILE",
       "mount": "HARDPOINT",
-      "arc": 15,
+      "arc": 5,
       "angle": 0,
       "locations": [54, 23]
     },
     {
       "id": "WS0004",
       "size": "SMALL",
-      "type": "COMPOSITE",
+      "type": "MISSILE",
       "mount": "HARDPOINT",
-      "arc": 15,
+      "arc": 5,
       "angle": -0,
       "locations": [54, -23]
     },
@@ -65,6 +68,37 @@
       "arc": 5,
       "angle": -0,
       "locations": [10, -50]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        -7.5, 0.5,
+        -10.5, 9.5,
+        -10.5, -8
+      ]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -90,
+      "locations": [-10.5, 7.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 90,
+      "locations": [-10.5, -7.5]
     }
   ],
   "engineSlots": [

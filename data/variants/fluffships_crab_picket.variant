@@ -1,0 +1,41 @@
+{
+  "variantId": "fluffships_crab_picket",
+  "hullId": "fluffships_crab",
+  "displayName": "Picket",
+  "goalVariant": true,
+  "fluxCapacitors": 4,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "pointdefenseai"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "swarmer",
+        "WS0004": "swarmer"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "dualflak",
+        "WS0002": "dualflak"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "fluffships_lightrailmg",
+        "WS0006": "fluffships_lightrailmg"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
