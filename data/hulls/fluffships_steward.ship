@@ -1,0 +1,220 @@
+{
+  "hullName": "Steward",
+  "hullId": "fluffships_steward",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_steward.png",
+  "style": "HIGH_TECH",
+  "height": 90,
+  "width": 96,
+  "center": [48, 45],
+  "collisionRadius": 85,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 71,
+  "viewOffset": 0,
+  "builtInMods": [
+    "pointdefenseai"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": 0,
+      "locations": [23, 19]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "SYNERGY",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": -0,
+      "locations": [23, -19]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": 55,
+      "locations": [-2.5, 18]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 240,
+      "angle": -55,
+      "locations": [-2.5, -18]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 170,
+      "angle": 70,
+      "locations": [11, 37]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 170,
+      "angle": -70,
+      "locations": [11, -37]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": 130,
+      "locations": [-22, 30]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": -130,
+      "locations": [-22, -30]
+    },
+    {
+      "id": "WS0009",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 0,
+      "locations": [26.5, 38.5]
+    },
+    {
+      "id": "WS0010",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -0,
+      "locations": [26.5, -38.5]
+    },
+    {
+      "id": "WS0011",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 15,
+      "angle": 0,
+      "locations": [25, 6]
+    },
+    {
+      "id": "WS0012",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 15,
+      "angle": -0,
+      "locations": [25, -6]
+    },{
+      "id": "WS0013",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 15,
+      "angle": 0,
+      "locations": [25, 6]
+    },
+    {
+      "id": "WS0014",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 15,
+      "angle": -0,
+      "locations": [25, -6]
+    },
+    {
+      "id": "LB 1",
+      "size": "LARGE",
+      "type": "LAUNCH_BAY",
+      "mount": "HIDDEN",
+      "arc": 360,
+      "angle": 0,
+      "locations": [
+        4, -0,
+        1, 2,
+        1, -2
+      ]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-40, 4],
+      "length": 38,
+      "width": 10,
+      "angle": 180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-40, -4],
+      "length": 38,
+      "width": 10,
+      "angle": -180,
+      "contrailSize": 10,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-40, 13.5],
+      "length": 24,
+      "width": 6,
+      "angle": 180,
+      "contrailSize": 6,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-40, -13.5],
+      "length": 24,
+      "width": 6,
+      "angle": -180,
+      "contrailSize": 6,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-39, 10],
+      "length": 22,
+      "width": 4,
+      "angle": 180,
+      "contrailSize": 4,
+      "style": "HIGH_TECH"
+    },
+    {
+      "location": [-39, -10],
+      "length": 22,
+      "width": 4,
+      "angle": -180,
+      "contrailSize": 4,
+      "style": "HIGH_TECH"
+    }
+  ],
+  "bounds": [
+    31, -42.5,
+    10, -45.5,
+    -33, -33,
+    -39.5, -21.5,
+    -39.5, 21.5,
+    -33, 33,
+    10, 45.5,
+    31, 42.5,
+    23.5, 10.5,
+    31.5, -0,
+    23.5, -10.5
+  ]
+}
