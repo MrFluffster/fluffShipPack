@@ -15,6 +15,9 @@
 		"fluffships_crab_picket":2,
 		"fluffships_crab_artillery":2,
 		"fluffships_crab_kinetic":1,
+		"fluffships_steward_standard":5,
+		"fluffships_steward_antifighter":3,
+		"fluffships_steward_closerange":1,
 	},
 	"combatMedium":{
 		"fluffships_buffalomkiv_standard":6,

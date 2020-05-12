@@ -1,0 +1,47 @@
+{
+  "variantId": "fluffships_steward_closerange",
+  "hullId": "fluffships_steward",
+  "displayName": "Close Range",
+  "goalVariant": true,
+  "fluxCapacitors": 2,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0001": "atropos_single",
+        "WS0002": "atropos_single"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "amblaster",
+        "WS0004": "amblaster"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "taclaser",
+        "WS0006": "taclaser"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0007": "taclaser",
+        "WS0008": "taclaser"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
