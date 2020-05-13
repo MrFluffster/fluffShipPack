@@ -12,7 +12,8 @@
   "shieldRadius": 93.5,
   "viewOffset": 0,
   "builtInMods": [
-    "targetingunit"
+    "targetingunit",
+    "repair_gantry"
   ],
   "weaponSlots": [
     {
