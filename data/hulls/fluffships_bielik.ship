@@ -49,7 +49,7 @@
       "locations": [16.5, -19]
     },
     {
-      "id": "WS0006",
+      "id": "WS0005",
       "size": "SMALL",
       "type": "MISSILE",
       "mount": "TURRET",
@@ -58,7 +58,7 @@
       "locations": [70.5, -0]
     },
     {
-      "id": "WS0007",
+      "id": "WS0006",
       "size": "SMALL",
       "type": "ENERGY",
       "mount": "TURRET",

@@ -3,7 +3,7 @@
   "hullId": "fluffships_bielik",
   "displayName": "Fast Attack",
   "goalVariant": true,
-  "fluxCapacitors": 12,
+  "fluxCapacitors": 16,
   "fluxVents": 20,
   "quality": 1,
   "permaMods": [],
@@ -16,15 +16,15 @@
       "mode": "LINKED",
       "weapons": {
         "WS0001": "arbalest",
-        "WS0002": "arbalest"
+        "WS0002": "arbalest",
+        "WS0005": "atropos",
+        "WS0006": "pdlaser"
       }
     },
     {
       "autofire": false,
       "mode": "ALTERNATING",
-      "weapons": {
-        "WS0006": "atropos"
-      }
+      "weapons": {}
     },
     {
       "autofire": true,
@@ -37,10 +37,7 @@
     {
       "autofire": true,
       "mode": "LINKED",
-      "weapons": {
-        "WS0005": "pdlaser",
-        "WS0007": "pdlaser"
-      }
+      "weapons": {}
     },
     {
       "autofire": false,
