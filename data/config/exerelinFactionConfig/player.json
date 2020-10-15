@@ -14,7 +14,7 @@
 	],
 	
     "startShipsCombatLarge":[
-		["fluffships_custodian_frontline", "shrike_Support", "fluffships_bielik_fastattack", "fluffships_steward_standard", "mercury_Standard"],
+		["fluffships_custodian_frontline", "shrike_Support", "fluffships_bielik_fastattack", "fluffships_steward_antifighter", "mercury_Standard"],
     ],
 	
     "startShipsTradeLarge":[
