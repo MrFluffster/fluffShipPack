@@ -1,0 +1,111 @@
+{
+  "hullName": "Catamaran",
+  "hullId": "fluffships_catamaran",
+  "hullSize": "FRIGATE",
+  "spriteName": "graphics/ships/fluffships_catamaran.png",
+  "style": "MIDLINE",
+  "height": 118,
+  "width": 110,
+  "center": [55, 59],
+  "collisionRadius": 97.5,
+  "shieldCenter": [0, 0],
+  "shieldRadius": 92.5,
+  "viewOffset": 0,
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": 80,
+      "locations": [24, 45]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 200,
+      "angle": -80,
+      "locations": [24, -45]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": 0,
+      "locations": [55, 26]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "HARDPOINT",
+      "arc": 15,
+      "angle": -0,
+      "locations": [55, -26]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 90,
+      "angle": 180,
+      "locations": [-35, -0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-58, 40.5],
+      "length": 45,
+      "width": 16,
+      "angle": 180,
+      "contrailSize": 16,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, -40.5],
+      "length": 45,
+      "width": 16,
+      "angle": -180,
+      "contrailSize": 16,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, 26],
+      "length": 60,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 20,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, -26],
+      "length": 60,
+      "width": 20,
+      "angle": -180,
+      "contrailSize": 20,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -56, -17,
+    -51, -49.5,
+    11, -45.5,
+    28, -52.5,
+    49.5, -20,
+    36, -6,
+    36, 6,
+    49.5, 20,
+    28, 52.5,
+    11, 45.5,
+    -51, 49.5,
+    -56, 17,
+    -42, 7.5,
+    -42, -7.5
+  ]
+}
