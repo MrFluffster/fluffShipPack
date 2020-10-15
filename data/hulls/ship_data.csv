@@ -7,7 +7,7 @@ Collier (RG),fluffships_collier_rg,Militarized Miner,Red Guards,maneuveringjets,
 Firecrow,fluffships_firecrow,Attack Craft,Low Tech,fluffships_strafedrive,5,1000,200,1400,1000,50,25,,140,160,80,50,90,120,OMNI,,150,0.5,0.8,,,4,10,10,10,1,10,10,8000,5,20,180,0.25,6,6,,rare_bp,,0.75,2,2,217
 Crab,fluffships_crab,Gunship,Low Tech,drone_pd_x2,6,2500,150,2600,2500,250,60,,100,180,120,45,120,250,OMNI,,45,0.2,1.4,,,20,30,30,20,1,20,10,13000,5,10,280,0.20,5,5,,lowtech_bp,,0.4,2,2,207
 Steward,fluffships_steward,Picket Frigate,High Tech,flarelauncher_active,8,2000,200,2400,1875,175,50,,100,120,100,70,90,300,OMNI,,240,0.4,0.6,,,30,40,40,20,1,20,10,28000,6,20,200,0.25,6,6,,hightech_bp,,0.5,2,2,220
-Catamaran,fluffships_catamaran,Frigate,Midline,flarelauncher,6,2500,200,2000,2000,200,40,,100,100,100,60,90,300,FRONT,,180,0.4,0.8,,,25,40,40,20,1,20,10,20000,5,14,240,0.25,5,5,,midline_brp,,,,,
+Catamaran,fluffships_catamaran,Frigate,Midline,flarelauncher,6,2500,200,2000,2000,200,40,,100,100,100,60,90,300,FRONT,,180,0.4,0.8,,,25,40,40,20,1,20,10,20000,5,14,240,0.25,5,5,HIDE_IN_CODEX,midline_brp,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,299
 Bielik,fluffships_bielik,Light Destroyer,Midline,flarelauncher_active,9,4000,120,7500,10500,280,80,,120,100,80,45,60,300,FRONT,,250,0.43,1.4,,,50,70,50,50,2,25,10,50000,5,12,360,0.25,9,9,,"midline_bp, persean_league",,0.5,2,3,301
 Buffalo Mk.IV,fluffships_buffalomkiv,Modified Torpedo Freighter,Luddic Path,fastmissileracks,8,2500,100,1500,1167,60,32,,65,35,20,20,10,400,OMNI,,120,0.5,1.2,,,10,20,30,40,2,20,8,26000,5,25,180,0.25,4,4,ALWAYS_PANIC,"lp_bp, luddic_path",,0.6,2,3,303
