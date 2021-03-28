@@ -1,5 +1,4 @@
 name,id,designation,tech/manufacturer,system id,fleet pts,hitpoints,armor rating,max flux,8/6/5/4%,flux dissipation,ordnance points,fighter bays,max speed,acceleration,deceleration,max turn rate,turn acceleration,mass,shield type,defense id,shield arc,shield upkeep,shield efficiency,phase cost,phase upkeep,min crew,max crew,cargo,fuel,fuel/ly,range,max burn,base value,cr %/day,CR to deploy,peak CR sec,CR loss/sec,supplies/rec,supplies/mo,hints,tags,rarity,breakProb,minPieces,maxPieces,number
-Thunderbolt,fluffships_thunderbolt,,Midline,,,500,50,600,,150,0,,500,600,700,150,300,30,NONE,,0,0,0,,,1,1,,,,,,,,,,,,,,,,0,,,101
 Stormbringer,fluffships_stormbringer,,Midline,flarelauncher_fighter,,300,10,300,,100,0,,340,500,450,125,300,30,FRONT,,90,0,1,,,1,1,,,,,,,,,,,,,,,,0,,,102
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,199
 Collier,fluffships_collier,Combat Miner,Midline,flarelauncher,6,2250,250,2400,1500,300,40,1,110,95,70,45,90,300,FRONT,,180,0.4,0.8,,,30,60,80,40,1,40,10,14000,8,11,240,0.25,5,5,"CARRIER, COMBAT",base_bp,,0.5,2,2,201
