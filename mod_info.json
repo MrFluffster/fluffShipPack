@@ -4,5 +4,7 @@
 	"author":"MrFluff",
 	"version":"0.2.1",
 	"description":"A collection of kitbashed ships and weapons. Use at your own risk. @PMMeCuteBugPhotos on unofficial discord for feedback.",
-	"gameVersion":"0.95a",
+	"gameVersion":"0.95a-RC10",
+	"jars":["jars/fluffShipPack.jar"],
+	"modPlugin":"data.scripts.fluffships_ModPlugin"
 }
