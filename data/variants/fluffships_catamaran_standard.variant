@@ -1,0 +1,54 @@
+{
+  "variantId": "fluffships_catamaran_standard",
+  "hullId": "fluffships_catamaran",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 6,
+  "fluxVents": 10,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "targetingunit",
+    "auxiliarythrusters"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "atropos",
+        "WS0004": "atropos"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "fluffships_lightrailmg",
+        "WS0002": "fluffships_lightrailmg"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0006": "lightmortar",
+        "WS0007": "lightmortar"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "lightmg"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

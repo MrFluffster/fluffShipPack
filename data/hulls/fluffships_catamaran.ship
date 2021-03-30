@@ -33,20 +33,20 @@
     {
       "id": "WS0003",
       "size": "SMALL",
-      "type": "BALLISTIC",
+      "type": "COMPOSITE",
       "mount": "HARDPOINT",
       "arc": 15,
-      "angle": 0,
-      "locations": [55, 26]
+      "angle": -0,
+      "locations": [50, 26]
     },
     {
       "id": "WS0004",
       "size": "SMALL",
-      "type": "BALLISTIC",
+      "type": "COMPOSITE",
       "mount": "HARDPOINT",
       "arc": 15,
-      "angle": -0,
-      "locations": [55, -26]
+      "angle": 0,
+      "locations": [50, -26]
     },
     {
       "id": "WS0005",
@@ -56,28 +56,62 @@
       "arc": 90,
       "angle": 180,
       "locations": [-35, -0]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 140,
+      "angle": 0,
+      "locations": [8, 29]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 140,
+      "angle": -0,
+      "locations": [8, -29]
     }
   ],
   "engineSlots": [
     {
       "location": [-58, 40.5],
-      "length": 45,
-      "width": 16,
+      "length": 70,
+      "width": 20,
       "angle": 180,
-      "contrailSize": 16,
+      "contrailSize": 20,
       "style": "MIDLINE"
     },
     {
       "location": [-58, -40.5],
-      "length": 45,
-      "width": 16,
+      "length": 70,
+      "width": 20,
       "angle": -180,
-      "contrailSize": 16,
+      "contrailSize": 20,
       "style": "MIDLINE"
     },
     {
       "location": [-58, 26],
-      "length": 60,
+      "length": 100,
+      "width": 30,
+      "angle": 180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, -26],
+      "length": 100,
+      "width": 30,
+      "angle": -180,
+      "contrailSize": 30,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, 26],
+      "length": 50,
       "width": 20,
       "angle": 180,
       "contrailSize": 20,
@@ -85,10 +119,26 @@
     },
     {
       "location": [-58, -26],
-      "length": 60,
+      "length": 50,
       "width": 20,
       "angle": -180,
       "contrailSize": 20,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, 40.5],
+      "length": 40.5,
+      "width": 18,
+      "angle": 180,
+      "contrailSize": 18,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-58, -40.5],
+      "length": 40.5,
+      "width": 18,
+      "angle": -180,
+      "contrailSize": 18,
       "style": "MIDLINE"
     }
   ],

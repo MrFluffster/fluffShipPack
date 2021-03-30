@@ -1,0 +1,54 @@
+{
+  "variantId": "fluffships_catamaran_assault",
+  "hullId": "fluffships_catamaran",
+  "displayName": "Assault",
+  "goalVariant": false,
+  "fluxCapacitors": 1,
+  "fluxVents": 9,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "targetingunit",
+    "assault_package"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0003": "reaper",
+        "WS0004": "reaper"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0006": "lightneedler",
+        "WS0007": "lightneedler"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightag",
+        "WS0002": "lightag"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0005": "lightmg"
+      }
+    },
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {}
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
