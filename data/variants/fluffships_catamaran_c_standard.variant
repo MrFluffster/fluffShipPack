@@ -2,7 +2,7 @@
   "variantId": "fluffships_catamaran_c_standard",
   "hullId": "fluffships_catamaran_c",
   "displayName": "Standard",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 4,
   "fluxVents": 10,
   "quality": 1,

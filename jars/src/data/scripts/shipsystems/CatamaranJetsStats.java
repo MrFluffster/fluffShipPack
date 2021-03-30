@@ -1,4 +1,4 @@
-package data.shipsystems.scripts;
+package jars.src.data.scripts.shipsystems;
 
 import com.fs.starfarer.api.Global;
 import com.fs.starfarer.api.combat.MutableShipStatsAPI;

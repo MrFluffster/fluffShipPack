@@ -2,7 +2,7 @@
   "variantId": "fluffships_catamaran_assault",
   "hullId": "fluffships_catamaran",
   "displayName": "Assault",
-  "goalVariant": false,
+  "goalVariant": true,
   "fluxCapacitors": 1,
   "fluxVents": 9,
   "quality": 1,

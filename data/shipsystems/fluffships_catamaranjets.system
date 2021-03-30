@@ -3,11 +3,11 @@
 	"type":"ENGINE_MOD",
 	"aiType":"MANEUVERING_JETS",
 	
-	"statsScript":"data.shipsystems.scripts.CatamaranJetsStats",
+	"statsScript":"jars.src.data.scripts.shipsystems.CatamaranJetsStats",
 	
-	"engineGlowLengthMult":1,
-	"engineGlowWidthMult":1,
-	"engineGlowGlowMult":2,
+	"engineGlowLengthMult":3,
+	"engineGlowWidthMult":2,
+	"engineGlowGlowMult":1.1,
 	
 	"flameoutOnImpactChance":0,
 

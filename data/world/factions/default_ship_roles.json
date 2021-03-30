@@ -18,6 +18,8 @@
 		"fluffships_steward_standard":5,
 		"fluffships_steward_antifighter":3,
 		"fluffships_steward_closerange":1,
+		"fluffships_catamaran_standard":6,
+		"fluffships_catamaran_assault":3,
 	},
 	"combatMedium":{
 		"fluffships_buffalomkiv_standard":6,
@@ -34,6 +36,7 @@
 		"fluffships_atlasmk5_support":2,
 	},
 	"combatFreighterSmall":{
+		"fluffships_catamaran_c_standard":7,
 	},
 	"combatFreighterMedium":{
 	},

@@ -21,6 +21,7 @@
 			"fluffships_panhandler",
 			"fluffships_buffaloex",
 			"fluffships_crab",
+			"fluffships_catamaran_c",
 		],
 	},
 	# listing ships here will make the faction mostly use them even if other hulls become available
