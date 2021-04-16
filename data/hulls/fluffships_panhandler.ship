@@ -13,21 +13,22 @@
   "viewOffset": 0,
   "builtInMods": [
     "repair_gantry",
-    "autorepair"
+    "autorepair",
+	"civgrade"
   ],
   "builtInWings": [
     "borer_wing",
     "borer_wing"
   ],
   "builtInWeapons": {
-    "WS0014": "fluffships_mininglaser",
-    "WS0015": "fluffships_mininglaser",
-    "WS0016": "fluffships_mininglaser",
-    "WS0017": "fluffships_mininglaser",
-    "WS0018": "fluffships_mininglaser",
-    "WS0019": "fluffships_mininglaser",
-    "WS0020": "fluffships_mininglaser",
-    "WS0021": "fluffships_mininglaser"
+    "WS0014": "mininglaser",
+    "WS0015": "mininglaser",
+    "WS0016": "mininglaser",
+    "WS0017": "mininglaser",
+    "WS0018": "mininglaser",
+    "WS0019": "mininglaser",
+    "WS0020": "mininglaser",
+    "WS0021": "mininglaser"
   },
   "weaponSlots": [
     {
@@ -177,7 +178,7 @@
       "id": "WS0014",
       "size": "SMALL",
       "type": "BUILT_IN",
-      "mount": "HARDPOINT",
+      "mount": "HIDDEN",
       "arc": 10,
       "angle": 0,
       "locations": [82, 33]

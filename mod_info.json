@@ -2,9 +2,9 @@
 	"id":"fluffships",
 	"name":"Fluff Ship Pack",
 	"author":"MrFluff",
-	"version":"0.2.1",
+	"version":"0.2.2",
 	"description":"A collection of kitbashed ships and weapons. Use at your own risk. @PMMeCuteBugPhotos on unofficial discord for feedback.",
-	"gameVersion":"0.95a-RC10",
+	"gameVersion":"0.95a-RC12",
 	"jars":["jars/fluffShipPack.jar"],
 	"modPlugin":"jars.src.data.scripts.fluffships_ModPlugin"
 }

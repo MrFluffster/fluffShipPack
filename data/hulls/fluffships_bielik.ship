@@ -53,7 +53,7 @@
       "size": "SMALL",
       "type": "MISSILE",
       "mount": "TURRET",
-      "arc": 2,
+      "arc": 5,
       "angle": 0,
       "locations": [70.5, -0]
     },
@@ -74,6 +74,24 @@
       "arc": 360,
       "angle": 0,
       "locations": [-8.5, -0]
+    },
+    {
+      "id": "WS0007",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": 65,
+      "locations": [2, 14.5]
+    },
+    {
+      "id": "WS0008",
+      "size": "SMALL",
+      "type": "SYSTEM",
+      "mount": "HIDDEN",
+      "arc": 5,
+      "angle": -65,
+      "locations": [2, -14.5]
     }
   ],
   "engineSlots": [
