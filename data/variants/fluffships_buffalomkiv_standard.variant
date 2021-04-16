@@ -3,12 +3,11 @@
   "hullId": "fluffships_buffalomkiv",
   "displayName": "Standard",
   "goalVariant": true,
-  "fluxCapacitors": 0,
-  "fluxVents": 3,
+  "fluxCapacitors": 3,
+  "fluxVents": 8,
   "quality": 1,
   "permaMods": [],
   "hullMods": [
-    "unstable_injector",
     "auxiliarythrusters"
   ],
   "weaponGroups": [
@@ -16,14 +15,23 @@
       "autofire": false,
       "mode": "ALTERNATING",
       "weapons": {
-        "WS0001": "cyclone",
-        "WS0003": "cyclone"
+        "WS0004": "hammerrack",
+        "WS0005": "hammerrack"
       }
     },
     {
-      "autofire": false,
-      "mode": "ALTERNATING",
+      "autofire": true,
+      "mode": "LINKED",
       "weapons": {
+        "WS0002": "lightmortar",
+        "WS0003": "lightmortar"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "lightdualmg",
         "WS0002y": "lightdualmg"
       }
     }

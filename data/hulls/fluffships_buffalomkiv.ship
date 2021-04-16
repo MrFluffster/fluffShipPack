@@ -5,15 +5,15 @@
   "spriteName": "graphics/ships/fluffships_buffalomkiv.png",
   "style": "LOW_TECH",
   "height": 149,
-  "width": 102,
-  "center": [51, 74.5],
-  "collisionRadius": 106,
-  "shieldCenter": [0, 0],
-  "shieldRadius": 94,
+  "width": 108,
+  "center": [54, 74.5],
+  "collisionRadius": 87.5,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 85,
   "viewOffset": 0,
   "builtInWeapons": {
-    "WS0001": "cyclone",
-    "WS0003": "cyclone"
+    "WS0004": "hammerrack",
+    "WS0005": "hammerrack"
   },
   "weaponSlots": [
     {
@@ -21,32 +21,59 @@
       "size": "SMALL",
       "type": "BALLISTIC",
       "mount": "TURRET",
-      "arc": 270,
+      "arc": 220,
       "angle": -0,
-      "locations": [56, 0]
+      "locations": [56.5, -0]
     },
     {
       "id": "WS0001",
-      "size": "LARGE",
-      "type": "BUILT_IN",
-      "mount": "HIDDEN",
-      "arc": 0,
-      "angle": 90,
-      "locations": [30.5, 35]
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 220,
+      "angle": 180,
+      "locations": [-28.5, -0]
+    },
+    {
+      "id": "WS0002",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 190,
+      "angle": 95,
+      "locations": [-32.5, 39]
     },
     {
       "id": "WS0003",
+      "size": "SMALL",
+      "type": "BALLISTIC",
+      "mount": "TURRET",
+      "arc": 190,
+      "angle": -95,
+      "locations": [-32.5, -39]
+    },
+    {
+      "id": "WS0004",
       "size": "LARGE",
       "type": "BUILT_IN",
-      "mount": "HIDDEN",
-      "arc": 0,
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 90,
+      "locations": [27.5, 32.5]
+    },
+    {
+      "id": "WS0005",
+      "size": "LARGE",
+      "type": "BUILT_IN",
+      "mount": "HARDPOINT",
+      "arc": 5,
       "angle": -90,
-      "locations": [30.5, -35]
+      "locations": [27.5, -32.5]
     }
   ],
   "engineSlots": [
     {
-      "location": [-69.5, 24.5],
+      "location": [-71.5, 24.5],
       "length": 30,
       "width": 10,
       "angle": 180,
@@ -54,7 +81,7 @@
       "style": "LOW_TECH"
     },
     {
-      "location": [-69.5, -24.5],
+      "location": [-71.5, -24.5],
       "length": 30,
       "width": 10,
       "angle": -180,
@@ -62,7 +89,7 @@
       "style": "LOW_TECH"
     },
     {
-      "location": [-70.5, 15.5],
+      "location": [-72.5, 15.5],
       "length": 30,
       "width": 10,
       "angle": 180,
@@ -70,7 +97,7 @@
       "style": "LOW_TECH"
     },
     {
-      "location": [-70.5, -15.5],
+      "location": [-72.5, -15.5],
       "length": 30,
       "width": 10,
       "angle": -180,
@@ -78,7 +105,7 @@
       "style": "LOW_TECH"
     },
     {
-      "location": [-71.5, 6.5],
+      "location": [-73.5, 6.5],
       "length": 30,
       "width": 10,
       "angle": 180,
@@ -86,7 +113,7 @@
       "style": "LOW_TECH"
     },
     {
-      "location": [-71.5, -6.5],
+      "location": [-73.5, -6.5],
       "length": 30,
       "width": 10,
       "angle": -180,
@@ -95,11 +122,19 @@
     }
   ],
   "bounds": [
-    -31, -44,
-    -62, -28.5,
-    -62, 28.5,
-    -31, 44,
-    61.5, 32.5,
-    61.5, -32.5
+    -69, -27.5,
+    -53, -30,
+    -40, -47.5,
+    -5.5, -47.5,
+    42, -50.5,
+    62.5, -33,
+    65.5, -7.5,
+    65.5, 7.5,
+    62.5, 33,
+    42, 50.5,
+    -5.5, 47.5,
+    -40, 47.5,
+    -53, 30,
+    -69, 27.5
   ]
 }

@@ -4,12 +4,14 @@
 	"combatSmallForSmallFleet":{
 	},
 	"combatSmall":{
-		"fluffships_bielik_fastattack":6,
+		"fluffships_bielik_overdriven":3,
+		"fluffships_bielik_fastattack":3,
+		"fluffships_bielik_standoff":4,
 		"fluffships_collier_mm_mm":6,
-		"fluffships_collier_rg_backline":2,
+		"fluffships_collier_rg_backline":3,
 		"fluffships_collier_rg_strike":6,
 		"fluffships_collier_rg_antifighter":1,
-		"fluffships_firecrow_standard":6,
+		"fluffships_firecrow_standard":7,
 		"fluffships_firecrow_bombard":3,
 		"fluffships_crab_standard":5,
 		"fluffships_crab_picket":2,
@@ -18,7 +20,7 @@
 		"fluffships_steward_standard":5,
 		"fluffships_steward_antifighter":3,
 		"fluffships_steward_closerange":1,
-		"fluffships_catamaran_standard":6,
+		"fluffships_catamaran_standard":7,
 		"fluffships_catamaran_assault":3,
 	},
 	"combatMedium":{
@@ -33,10 +35,10 @@
 	},
 	"combatCapital":{
 		"fluffships_atlasmk5_artillery":7,
-		"fluffships_atlasmk5_support":2,
+		"fluffships_atlasmk5_support":3,
 	},
 	"combatFreighterSmall":{
-		"fluffships_catamaran_c_standard":7,
+		"fluffships_collier_standard":1,
 	},
 	"combatFreighterMedium":{
 	},
@@ -57,6 +59,7 @@
 	"carrierMedium":{
 	},
 	"freighterSmall":{
+		"fluffships_catamaran_c_standard":3,
 	},
 	"freighterMedium":{
 	},
