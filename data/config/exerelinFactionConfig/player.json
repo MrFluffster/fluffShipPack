@@ -1,20 +1,20 @@
 {
-    "startShipsSolo":[
+    #"startShipsSolo":[
       #["fluffships_bielik_fastattack"],
       #["fluffships_firecrow_standard"],
-      ["fluffships_crab_standard"],
-    ],
+      #["fluffships_catamaran_standard"],
+    #],
 	
     "startShipsCombatSmall":[
 		["fluffships_bielik_fastattack", "wolf_Starting", "kite_Support"],
 	],
 	
     "startShipsTradeSmall":[
-		["fluffships_collier_standard", "cerberus_Starting", "shepherd_Frontier"],
+		["fluffships_collier_standard", "catamaran_c_standard", "shepherd_Frontier"],
 	],
 	
     "startShipsCombatLarge":[
-		["fluffships_custodian_frontline", "shrike_Support", "fluffships_bielik_fastattack", "fluffships_steward_antifighter", "mercury_Standard"],
+		["fluffships_atlasmk5_support", "shrike_Support", "fluffships_bielik_overdriven", "fluffships_steward_antifighter", "mercury_Standard", "catamaran_c_standard", "dram_Light"],
     ],
 	
     "startShipsTradeLarge":[

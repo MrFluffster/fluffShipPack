@@ -16,5 +16,5 @@ Panhandler,fluffships_panhandler,Miner,Low Tech,highenergyfocus,12,7000,300,1200
 Buffalo EX,fluffships_buffaloex,Combat Freighter,High Tech,burndrive,10,7000,400,4500,1167,260,110,,55,25,25,24,15,2000,OMNI,,120,0.5,1,,,80,150,750,180,3,60,7,75000,5,14,420,0.25,12,12,,"hightech_bp, persean_league",,0.6,2,3,302
 Custodian,fluffships_custodian,Heavy Cruiser,High Tech,fortressshield,16,8000,360,12000,9000,500,150,,40,20,10,12,12,2000,OMNI,,240,0.66,0.6,,,180,280,80,100,4,25,8,120000,4,14,540,0.25,25,25,,"hightech_bp, persean_league",,0.4,2,3,403
 ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,499
-Atlas Mk.V,fluffships_atlasmk5,Battlecruiser,Midline,maneuveringjets,22,10000,650,10000,8750,800,235,1,40,35,30,20,10,3800,OMNI,,100,0.41,1.2,,,450,600,250,300,10,30,8,250000,2,20,720,0.25,32,32,,rare_bp,,0.7,2,4,502.5
+Atlas Mk.V,fluffships_atlasmk5,Battlecruiser,Midline,maneuveringjets,22,10000,650,10000,8750,800,235,1,40,35,30,20,10,3800,OMNI,,100,0.41,1.2,,,450,600,250,300,10,30,8,250000,2,20,720,0.25,30,30,,rare_bp,,0.7,2,4,502.5
 Excursion,fluffships_odyslaught,Battlercruisership,High Tech,microburn,30,15000,1375,16000,69,1000,380,4,55,40,30,6,8,3500,OMNI,,180,0.33,1,,,800,1600,300,400,15,27,8,400000,3,20,600,0.25,50,50,HIDE_IN_CODEX,,,0.4,2,4,601
