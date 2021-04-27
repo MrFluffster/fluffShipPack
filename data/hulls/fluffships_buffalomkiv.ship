@@ -15,6 +15,9 @@
     "WS0004": "hammerrack",
     "WS0005": "hammerrack"
   },
+  "builtInMods": [
+    "civgrade"
+  ],
   "weaponSlots": [
     {
       "id": "WS0002y",

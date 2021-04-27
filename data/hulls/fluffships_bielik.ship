@@ -15,7 +15,7 @@
     {
       "id": "WS0001",
       "size": "MEDIUM",
-      "type": "BALLISTIC",
+      "type": "HYBRID",
       "mount": "TURRET",
       "arc": 220,
       "angle": 45,
@@ -24,7 +24,7 @@
     {
       "id": "WS0002",
       "size": "MEDIUM",
-      "type": "BALLISTIC",
+      "type": "HYBRID",
       "mount": "TURRET",
       "arc": 220,
       "angle": -45,

@@ -12,6 +12,7 @@
   "shieldRadius": 89,
   "viewOffset": 0,
   "builtInMods": [
+	"civgrade",
     "repair_gantry"
   ],
   "builtInWings": [

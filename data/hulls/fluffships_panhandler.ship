@@ -12,9 +12,9 @@
   "shieldRadius": 135.5,
   "viewOffset": 0,
   "builtInMods": [
-    "repair_gantry",
-    "autorepair",
-	"civgrade"
+    "civgrade",
+	"repair_gantry",
+    "autorepair"
   ],
   "builtInWings": [
     "borer_wing",
