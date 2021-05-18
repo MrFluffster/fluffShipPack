@@ -7,10 +7,11 @@
 		#"tags":{
 		#},
 		"hulls":{
-			"fluffships_atlasmk5":0.3,
+			"fluffships_atlasmk5":0.4,
 			"fluffships_crab":0.9,
 			"fluffships_catamaran":0.9,
 			"fluffships_firecrow":0.8,
+			"fluffships_catamaran_c":0.7,
 		},
 	},
 	# ships the faction gets access to when importing S&W out-of-faction
@@ -24,6 +25,7 @@
 			"fluffships_atlasmk5",
 			"fluffships_firecrow",
 			"fluffships_buffaloex",
+			"fluffships_bielik",
 			"fluffships_crab",
 			"fluffships_catamaran",
 			"fluffships_catamaran_c",

@@ -5,9 +5,10 @@
 	# multiplier for how often hulls show up in the faction's fleets
 	"hullFrequency":{
 		"hulls":{
-			"fluffships_atlasmk5":0.7,
+			"fluffships_atlasmk5":0.8,
 			"fluffships_custodian":0.9,
 			"fluffships_firecrow":0.8,
+			"fluffships_catamaran_c":0.7,
 		},
 	},
 	"knownShips":{
@@ -20,6 +21,7 @@
 			"fluffships_buffaloex",
 			"fluffships_catamaran",
 			"fluffships_catamaran_c",
+			"fluffships_steward",
 		],
 	},
 	

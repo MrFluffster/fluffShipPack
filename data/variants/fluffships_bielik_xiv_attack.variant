@@ -1,0 +1,41 @@
+{
+  "variantId": "fluffships_bielik_xiv_attack",
+  "hullId": "fluffships_bielik_xiv",
+  "displayName": "Attack",
+  "goalVariant": true,
+  "fluxCapacitors": 2,
+  "fluxVents": 15,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [
+    "targetingunit",
+    "heavyarmor"
+  ],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "ALTERNATING",
+      "weapons": {
+        "WS0005": "annihilatorpod"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "heavyac",
+        "WS0002": "heavyac"
+      }
+    },
+    {
+      "autofire": true,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0003": "lightag",
+        "WS0004": "lightag"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}

@@ -17,7 +17,7 @@
 		"fluffships_crab_picket":2,
 		"fluffships_crab_artillery":2,
 		"fluffships_crab_kinetic":1,
-		"fluffships_steward_standard":5,
+		"fluffships_steward_standard":6,
 		"fluffships_steward_antifighter":3,
 		"fluffships_steward_closerange":1,
 		"fluffships_catamaran_standard":7,
@@ -30,8 +30,6 @@
 		"fluffships_custodian_picket":5,
 		"fluffships_custodian_frontline":3,
 		"fluffships_custodian_beam":2,
-		"fluffships_buffaloex_standard":1,
-		"fluffships_buffaloex_longrange":2,
 	},
 	"combatCapital":{
 		"fluffships_atlasmk5_artillery":7,
@@ -43,7 +41,7 @@
 	"combatFreighterMedium":{
 	},
 	"combatFreighterLarge":{
-		"fluffships_buffaloex_standard":5,
+		"fluffships_buffaloex_standard":6,
 		"fluffships_buffaloex_longrange":3,
 	},
 	
@@ -59,7 +57,7 @@
 	"carrierMedium":{
 	},
 	"freighterSmall":{
-		"fluffships_catamaran_c_standard":3,
+		"fluffships_catamaran_c_standard":4,
 	},
 	"freighterMedium":{
 	},

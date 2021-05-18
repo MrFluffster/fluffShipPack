@@ -7,7 +7,7 @@
   "height": 32,
   "width": 34,
   "center": [17, 16],
-  "collisionRadius": 35.5,
+  "collisionRadius": 22.5,
   "shieldCenter": [0, 0],
   "shieldRadius": 22,
   "viewOffset": 0,
@@ -50,9 +50,9 @@
     }
   ],
   "bounds": [
-    2, -16,
+    3, -16,
     14, 0,
-    2, 16,
+    3, 16,
     -15, -0
   ]
 }
