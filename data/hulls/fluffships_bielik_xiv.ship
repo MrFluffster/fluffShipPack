@@ -14,6 +14,9 @@
   "builtInMods": [
     "fourteenth"
   ],
+  "builtInWeapons": {
+    "WS0006": "fluffships_xivdeco"
+  },
   "weaponSlots": [
     {
       "id": "WS0001",
@@ -59,9 +62,36 @@
       "arc": 5,
       "angle": 0,
       "locations": [73, -0]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "DECORATIVE",
+      "mount": "TURRET",
+      "arc": 0,
+      "angle": 0,
+      "locations": [60.5, -0],
+      "renderOrderMod": 100
     }
   ],
-  "engineSlots": [],
+  "engineSlots": [
+    {
+      "location": [-63, 10],
+      "length": 55,
+      "width": 17,
+      "angle": 180,
+      "contrailSize": 17,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-63, -10],
+      "length": 55,
+      "width": 17,
+      "angle": -180,
+      "contrailSize": 17,
+      "style": "LOW_TECH"
+    }
+  ],
   "bounds": [
     -63, -16,
     -74.5, -33,

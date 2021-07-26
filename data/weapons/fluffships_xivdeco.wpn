@@ -1,0 +1,18 @@
+{
+    "id":"fluffships_xivdeco",  # this id must match what's in the spreadsheet
+    "specClass":"beam",
+    "type":"DECORATIVE",
+    "size":"SMALL",
+    "showDamageWhenDecorative":true,
+    "renderBelowAllWeapons":false,
+    "turretSprite":"graphics/ships/fluffships_bielik_xiv_deco.png",
+    "hardpointSprite":"graphics/ships/fluffships_bielik_xiv_deco.png",
+    "turretOffsets":[0, 0],
+    "turretAngleOffsets":[0],
+    "hardpointOffsets":[0, 0],
+    "hardpointAngleOffsets":[0],    
+    "width":1.0,
+    "textureType":ROUGH,
+    "textureScrollSpeed":1.0,
+    "pixelsPerTexel":1.0,
+}
